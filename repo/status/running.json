@@ -4,33 +4,19 @@
     "/usr/local/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "a4d6ab91de02e5bdf6d20a3068a672767f4c9c87",
+    "commitId": "3127c6db8d2d3cdb90c7270d6d49c48cf0a34489",
     "isDirty": true,
     "modifiedFiles": [
-      "repo/icons/i2p-icon.png",
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.jar",
-      "repo/index.xml",
-      "repo/status/running.json",
-      "repo/status/update.json"
+      "repo/index.xml"
     ],
     "untrackedFiles": [
       "config.yml",
-      "repo/I2P-20220626.apk",
-      "repo/icons-120/net.i2p.android.4745269.png",
-      "repo/icons-160/net.i2p.android.4745269.png",
-      "repo/icons-240/net.i2p.android.4745269.png",
-      "repo/icons-320/net.i2p.android.4745269.png",
-      "repo/icons-480/net.i2p.android.4745269.png",
-      "repo/icons-640/net.i2p.android.4745269.png",
-      "repo/icons/net.i2p.android.4745269.png",
-      "repo/index.css",
-      "repo/index.html",
-      "repo/index.png",
       "tmp/apkcache.json"
     ]
   },
-  "startTimestamp": 1656278669000,
+  "startTimestamp": 1656284272000,
   "subcommand": "update"
 }
