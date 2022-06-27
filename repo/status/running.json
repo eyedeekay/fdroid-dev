@@ -4,19 +4,22 @@
     "/usr/local/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "3127c6db8d2d3cdb90c7270d6d49c48cf0a34489",
+    "commitId": "f52a8bebad70112fda80cf84ab7e185af80823be",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.jar",
-      "repo/index.xml"
+      "repo/index.xml",
+      "repo/status/running.json",
+      "repo/status/update.json"
     ],
     "untrackedFiles": [
       "config.yml",
+      "repo/I2P-20220627.apk",
       "tmp/apkcache.json"
     ]
   },
-  "startTimestamp": 1656284272000,
+  "startTimestamp": 1656354564000,
   "subcommand": "update"
 }
